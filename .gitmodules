@@ -1,6 +1,6 @@
 [submodule "api"]
   path = api
-  url = ./api
+  url = https://github.com/nicozo/alooks_api
 [submodule "front"]
   path = front
-  url = ./front
+  url = https://github.com/nicozo/alooks_front
